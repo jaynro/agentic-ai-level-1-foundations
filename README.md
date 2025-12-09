@@ -1,9 +1,3 @@
-You're right, the general term **"Document"** is much clearer and more inclusive than specifically mentioning "PDF" when the project's goal is general data extraction.
-
-I've updated the title, summary, and all relevant parts of the `Gen_AI_Foundations_README.md` to reflect the change from **PDF** to **Document**.
-
------
-
 ## 📄 `Gen_AI_Foundations_README.md` (Final Version with "Document" Update)
 
 # Gen AI Foundations: Capstone Project 1 - Document-to-JSON Extraction Agent
