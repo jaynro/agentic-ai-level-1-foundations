@@ -35,7 +35,6 @@ This project directly utilizes core concepts covered in the first section of the
 | **Large Language Models (LLMs)** | Core intelligence engine. | The agent relies on an LLM (e.g., Gemini) to understand the **prompt**, interpret **OCR output** from the **document**, and enforce the **JSON schema** for structured output. |
 | **Agent Fundamentals** | Direct application of training. | This agent is a **simple, basic tool-call agent** that uses one tool (a **document parser**) and then utilizes the LLM for reasoning and structured formatting. |
 | **Tools/Tool Calls** | Core mechanism for extraction. | The agent is equipped with a **Tool** to **read/process the document file**. The LLM decides when to use this tool call to access the document content before generating the response. |
-| **Retrieval-Augmented Generation (RAG)** | Used to provide context. | The process includes a RAG component: the **Document content** is the **"Retrieved"** information, which the LLM uses to **"Generate"** the structured JSON output. |
 | **Developer Tools / GitHub Copilot** | Efficiency and code generation. | **[Placeholder: Briefly describe how GitHub Copilot, VS Code, or other IDE/Dev tools were used to increase development speed or assist with boilerplate code (e.g., FastAPI routing, Pydantic models, or ADK setup).]** |
 
 -----
