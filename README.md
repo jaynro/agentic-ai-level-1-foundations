@@ -1,5 +1,3 @@
-## 📄 `Gen_AI_Foundations_README.md` (Final Version with "Document" Update)
-
 # Gen AI Foundations: Capstone Project 1 - Document-to-JSON Extraction Agent
 
 ## 🛑 Reviewer Instructions: Submission Checklist 🛑
