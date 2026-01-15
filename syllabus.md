@@ -1,38 +1,116 @@
-# Master Syllabus – 12-Week Agentic AI Developer Program
+# Agentic AI Developer Program (12-Week Syllabus)
 
-This 12-week program builds hands-on skills in generative AI and agent development using Google's Agent Development Kit (ADK) and other tools. Each week covers key technical concepts and includes learning paths from both Google Cloud Skills Boost and Microsoft Learn. Capstone weeks include additional collaborative and career-building tasks.
-
----
-
-## Week-by-Week Breakdown
-
-| Week | Module & ADK Focus | Google Cloud Skills Boost | Microsoft Learn |
-|------|--------------------|----------------------------|------------------|
-| **Week 1** | Foundations of Generative AI *(Intro to ADK)* | [Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536) | [Introduction to Generative AI and Agents](https://learn.microsoft.com/en-us/training/modules/introduction-generative-ai-agents/) |
-| **Week 2** | LLMs and Prompt Engineering *(LLM Agent usage)* | [Intro to Large Language Models](https://www.cloudskillsboost.google/course_templates/537) | [Prompt Engineering Fundamentals](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering/) |
-| **Week 3** | Agent Architecture 101 *(Sequential workflows)* | [Building AI Apps with GenAI](https://www.cloudskillsboost.google/paths/118) | [Develop AI Apps with Azure Foundry SDK](https://learn.microsoft.com/en-us/training/paths/develop-ai-apps-foundry/) |
-| **Week 4** | **Capstone Project 1: Fact-Checking Auditor** *(Finance Domain)* | [GenAI Practitioner Challenge Lab](https://www.cloudskillsboost.google/challenge_labs/4071) | *(Project-focused week)* |
-|  | 🎯 **Additional Tasks**: |  |  |
-|  | • Conduct a peer interview about fact-checking and LLM tools |  |  |
-|  | • Update your resume with GenAI/Finance project experience |  |  |
-|  | • Submit and receive peer review on your finished Project 1 |  |  |
-| **Week 5** | Multi-Agent Design Patterns *(SequentialAgent, ParallelAgent)* | [Google ADK Multi-Agent Patterns](https://developers.googleblog.com/2024/03/design-patterns-for-agents.html) | [Plan and Prepare AI Solutions on Azure](https://learn.microsoft.com/en-us/training/modules/plan-ai-solutions/) |
-| **Week 6** | Tool Integration & Plugins *(ADK Tools & Connectors)* | [Building Tools for AI Agents](https://www.cloudskillsboost.google/focuses/59601) | [Enable Azure OpenAI with External Data](https://learn.microsoft.com/en-us/training/modules/connect-azure-openai-to-data/) |
-| **Week 7** | Responsible AI & Agent Safety *(Evaluation & Guardrails)* | [Intro to Responsible AI](https://www.cloudskillsboost.google/course_templates/541) | [Implement a Responsible GenAI Solution](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/) |
-| **Week 8** | **Capstone Project 2: Customer Resolution Squad** *(Retail Support)* | [GenAI Support Chatbot Lab](https://www.cloudskillsboost.google/focuses/59449) | *(Project-focused week)* |
-|  | 🎯 **Additional Tasks**: |  |  |
-|  | • Interview a peer on agent orchestration techniques |  |  |
-|  | • Add Project 2 to your portfolio/resume with business impact framing |  |  |
-|  | • Participate in structured peer review & give feedback |  |  |
-| **Week 9** | Autonomous Agents & Self-Healing *(LoopAgent)* | [ADK Looping Agents Codelab](https://codelabs.developers.google.com/looping-agents) | [Fine-Tune and Deploy in Foundry (Optional)](https://learn.microsoft.com/en-us/training/modules/fine-tune-deploy-model-foundry/) |
-| **Week 10** | Testing & Iteration Strategies *(Spec-Driven Dev)* | [Spec-Driven Dev Tutorial](https://github.com/google/agent-development-kit/tree/main/examples/spec-driven-dev) | [DevOps for AI – Evaluate](https://learn.microsoft.com/en-us/training/modules/monitor-evaluate-ai/) |
-| **Week 11** | Deployment & Scaling Agents *(Cloud Run, Vertex AI)* | [Deploy Agents with ADK Lab](https://www.cloudskillsboost.google/challenge_labs/4076) | [Evaluate GenAI Performance](https://learn.microsoft.com/en-us/training/modules/evaluate-genai-performance/) |
-| **Week 12** | **Capstone Project 3: Self-Healing Engineer** *(DevOps/Infra)* | [AI Agent Showcase (optional)](https://cloudonair.withgoogle.com/events/genai-innovators) | *(Project-focused week)* |
-|  | 🎯 **Additional Tasks**: |  |  |
-|  | • Conduct a deep-dive peer review of another self-healing project |  |  |
-|  | • Final resume update + LinkedIn post with your project highlight |  |  |
-|  | • Submit a final reflection write-up on your agentic AI journey |  |  |
+A structured learning path combining Google Cloud Skills Boost and Microsoft Learn to master LLM-based agentic systems, culminating in 3 capstone projects.
 
 ---
 
-**Note**: Google Cloud Skills Boost offers free labs and credentials for Innovators Plus members. Microsoft Learn offers full access modules with free sign-in. Each capstone project builds on the technical and design concepts from the previous weeks.
+## Week 1 – Foundations of Generative AI (Intro to ADK)
+
+* **Learning Focus**: GenAI basics, LLMs, agents
+* **Google Cloud Skills Boost**: [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118)
+* **Microsoft Learn**: [Introduction to Generative AI and Agents](https://learn.microsoft.com/en-us/training/modules/introduction-to-generative-ai/)
+
+---
+
+## Week 2 – LLMs and Prompt Engineering (LLM Agent usage)
+
+* **Learning Focus**: LLM architecture, prompt tuning
+* **Google Cloud Skills Boost**: [Introduction to Large Language Models](https://www.cloudskillsboost.google/paths/119)
+* **Microsoft Learn**: [Prompt Engineering Fundamentals](https://learn.microsoft.com/en-us/training/modules/introduction-to-prompt-engineering/)
+
+---
+
+## Week 3 – Agent Architecture 101 (Sequential workflows)
+
+* **Learning Focus**: End-to-end agent workflows
+* **Google Cloud Skills Boost**: [Building AI Applications with Generative AI](https://www.cloudskillsboost.google/paths/116)
+* **Microsoft Learn**: [Develop an AI App with Azure Foundry SDK](https://learn.microsoft.com/en-us/training/modules/develop-ai-apps-foundry-sdk/)
+
+---
+
+## Week 4 – Capstone Project 1: Fact-Checking Auditor
+
+* **Project Goal**: Build a finance domain fact-checking agent
+* **Google Cloud Skills Boost**: [Challenge Lab: Generative AI Practitioner](https://www.cloudskillsboost.google/focuses/31815?parent=catalog)
+* **Microsoft Learn**: *(No new module – focus on project)*
+
+---
+
+## Week 5 – Multi-Agent Design Patterns
+
+* **Learning Focus**: Patterns like SequentialAgent, ParallelAgent
+* **Google Blog**: [Multi-Agent Patterns with Google ADK](https://developers.googleblog.com/2023/12/multi-agent-patterns-with-google-adk.html)
+* **Microsoft Learn**: [Plan and Prepare AI Solutions on Azure](https://learn.microsoft.com/en-us/training/modules/plan-prepare-ai-solution/)
+
+---
+
+## Week 6 – Tool Integration & Plugins (ADK Tools & Connectors)
+
+* **Learning Focus**: Using tools & RAG with agents
+* **Google Cloud Skills Boost**: [Building Tools for AI Agents](https://www.cloudskillsboost.google/focuses/31816?parent=catalog)
+* **Microsoft Learn**: [Enable Azure OpenAI with External Data](https://learn.microsoft.com/en-us/training/modules/enable-azure-openai-with-your-data/)
+
+---
+
+## Week 7 – Responsible AI & Agent Safety
+
+* **Learning Focus**: Guardrails, fairness, compliance
+* **Google Cloud Skills Boost**: [Introduction to Responsible AI](https://www.cloudskillsboost.google/paths/117)
+* **Microsoft Learn**: [Implement a Responsible GenAI Solution](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)
+
+---
+
+## Week 8 – Capstone Project 2: Customer Resolution Squad
+
+* **Project Goal**: Build a customer support agent
+* **Google Cloud Skills Boost**: [Skill Badge Lab: Build a GenAI Support Chatbot](https://www.cloudskillsboost.google/focuses/31814?parent=catalog)
+* **Microsoft Learn**: *(No new module – focus on project)*
+
+---
+
+## Week 9 – Autonomous Agents & Self-Healing (LoopAgent)
+
+* **Learning Focus**: Feedback loops, autonomous refinement
+* **Google Codelab**: [Looping Agents Codelab](https://codelabs.developers.google.com/agent-looping)
+* **Microsoft Learn**: [Fine-Tune and Deploy a Model in Azure](https://learn.microsoft.com/en-us/training/modules/fine-tune-models-azure-openai/)
+
+---
+
+## Week 10 – Testing & Iteration Strategies (Spec-Driven Dev)
+
+* **Learning Focus**: Spec-driven development, testing
+* **GitHub/Google Blog**: [Spec-Driven Development Tutorial](https://github.com/google-deepmind/spec-driven-development)
+* **Microsoft Learn**: [DevOps for AI – Monitor and Evaluate](https://learn.microsoft.com/en-us/training/modules/devops-ai-monitor-evaluate/)
+
+---
+
+## Week 11 – Deployment & Scaling Agents
+
+* **Learning Focus**: Cloud deployment and optimization
+* **Google Cloud Skills Boost**: [Deploy an Agent with ADK](https://www.cloudskillsboost.google/focuses/31817?parent=catalog)
+* **Microsoft Learn**: [Evaluate GenAI Performance](https://learn.microsoft.com/en-us/training/modules/evaluate-generative-ai/)
+
+---
+
+## Week 12 – Capstone Project 3: The Self-Healing Engineer
+
+* **Project Goal**: Final deployment-ready multi-agent system
+* **Google Cloud**: [Google Innovators Live: AI Agent Showcase](https://cloudonair.withgoogle.com/events/ai-agent-showcase)
+* **Microsoft Learn**: *(No new module – wrap-up and demo)*
+
+---
+
+## Program Summary
+
+**Capstone Projects:**
+
+1. **Fact-Checking Auditor** – Validate financial claims
+2. **Customer Resolution Squad** – Build a retail support chatbot
+3. **Self-Healing Engineer** – Full production AI agent
+
+**Outcomes:**
+
+* Mastery of LLMs, prompting, and retrieval
+* Use of Google ADK and Microsoft Foundry SDK
+* Deployment and monitoring of production-grade agents
+* Hands-on experience with responsible and scalable AI
