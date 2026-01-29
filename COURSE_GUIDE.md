@@ -18,7 +18,7 @@ By the end of this self-paced program, you will not just "learn" about agents—
 ## 📚 Curriculum Roadmap
 
 ### Level 1: The Foundations
-**Project:** [Project 1 – The Fact-Checking Auditor](./project1/)
+**Project:** [Project 1 – The Fact-Checking Auditor](https://github.com/jaynro/agentic-ai-level-1-foundations/blob/main/README.md)
 * **Concept:** Single Agent & Tool Usage.
 * **Goal:** Build an agent that can use a search tool to verify claims.
 * **Required Reading:** [ADK Agents Overview](https://google.github.io/adk-docs/agents/)
@@ -28,7 +28,7 @@ By the end of this self-paced program, you will not just "learn" about agents—
     * [Code Review Definition of Done](https://github.com/jaynro/agentic-ai-level-1-foundations/blob/main/reviews/capstone-1-rubric.md)
 
 ### Level 2: Multi-Agent Systems
-**Project:** [Project 2 – The Customer Resolution Squad](./project2/)
+**Project:** [Project 2 – The Customer Resolution Squad](https://github.com/jaynro/agentic-ai-level-2-multi-agentic-integration)
 * **Concept:** Orchestration & Routing.
 * **Goal:** Coordinate three specialist agents to handle different customer queries.
 * **Required Reading:** [Multi-Agent Systems](https://google.github.io/adk-docs/agents/multi-agents/)
@@ -38,7 +38,7 @@ By the end of this self-paced program, you will not just "learn" about agents—
     * [Code Review Definition of Done](INSERT_LINK_HERE)
 
 ### Level 3: Autonomous Loops
-**Project:** [Project 3 – The Self-Healing Engineer](./project3/)
+**Project:** [Project 3 – The Self-Healing Engineer](https://github.com/jaynro/agentic-ai-level-3-complex-orchestration)
 * **Concept:** Iterative Reasoning & Self-Correction.
 * **Goal:** Build an agent that loops through diagnosis and testing until code is fixed.
 * **Required Reading:** [Loop Agents (Workflow)](https://google.github.io/adk-docs/agents/workflow-agents/loop-agents/)
