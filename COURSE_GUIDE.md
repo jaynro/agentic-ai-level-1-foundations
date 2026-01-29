@@ -1,0 +1,108 @@
+# AI Agent Engineering - Course Curriculum
+
+**🔗 [Prerequisite: Common Base Ground – AI Augmented Foundations](PUT_LINK_HERE)**
+
+Welcome to the AI Agent Engineering training. This course is **self-paced and self-directed**. You are responsible for managing your own learning timeline and coordinating with colleagues for reviews.
+
+---
+
+## 📚 Curriculum Roadmap
+
+### Level 1: The Foundations
+**Project:** [Project 1 – The Fact-Checking Auditor](./project1/)
+* **Concept:** Single Agent & Tool Usage.
+* **Goal:** Build an agent that can use a search tool to verify claims.
+* **Required Reading:** [ADK Agents Overview](https://google.github.io/adk-docs/agents/)
+* **Key Class:** `LlmAgent`
+* **✅ Assessments:**
+    * [Mock Interview Assessment](INSERT_LINK_HERE)
+    * [Code Review Definition of Done](INSERT_LINK_HERE)
+
+### Level 2: Multi-Agent Systems
+**Project:** [Project 2 – The Customer Resolution Squad](./project2/)
+* **Concept:** Orchestration & Routing.
+* **Goal:** Coordinate three specialist agents to handle different customer queries.
+* **Required Reading:** [Multi-Agent Systems](https://google.github.io/adk-docs/agents/multi-agents/)
+* **Key Concept:** `Coordinator` pattern.
+* **✅ Assessments:**
+    * [Mock Interview Assessment](INSERT_LINK_HERE)
+    * [Code Review Definition of Done](INSERT_LINK_HERE)
+
+### Level 3: Autonomous Loops
+**Project:** [Project 3 – The Self-Healing Engineer](./project3/)
+* **Concept:** Iterative Reasoning & Self-Correction.
+* **Goal:** Build an agent that loops through diagnosis and testing until code is fixed.
+* **Required Reading:** [Loop Agents (Workflow)](https://google.github.io/adk-docs/agents/workflow-agents/loop-agents/)
+* **Key Class:** `LoopAgent`
+* **✅ Assessments:**
+    * [Mock Interview Assessment](INSERT_LINK_HERE)
+    * [Code Review Definition of Done](INSERT_LINK_HERE)
+
+---
+
+## 🤝 Peer Review Process
+
+Since this course is self-directed, **you must actively seek out 3 colleagues** to review your work for each capstone.
+
+### How to Conduct a Review
+1.  **Create an Evaluation File:** In the root of your project repository, create a file named `PEER_REVIEWS.md`.
+2.  **Solicit Feedback:** Ask a peer to review your code or conduct a mock interview.
+3.  **Log the Review:** The peer must open your `PEER_REVIEWS.md` file and append their feedback using the template below.
+4.  **Definition of Done:** You are considered "Passed" on a project only when you have **3 distinct peer entries** in your file.
+
+#### Peer Review Template (Copy into `PEER_REVIEWS.md`)
+
+```markdown
+### Reviewer: [Name]
+**Date:** [YYYY-MM-DD]
+**Project Level:** [1, 2, or 3]
+
+**1. Interview Assessment (1-5):** [Score]
+*Comment on their storytelling and concept mastery:*
+> [Reviewer comments here]
+
+**2. Code Quality (1-5):** [Score]
+*Comment on architectural purity and clean code:*
+> [Reviewer comments here]
+
+**3. Final Verdict:** [Pass / Request Changes]
+
+```
+
+---
+
+## 📝 Universal Rubric Standards
+
+Peers should use the following standards when grading, regardless of which project level is being reviewed.
+
+### 1. The "AI Professional" Interview Protocol
+
+* **Concept Mastery:** Did the candidate explain *why* they chose specific agent patterns without over-relying on jargon?
+* **Storytelling:** Did they clearly articulate the "Problem," "Action," and "Result"?
+* **Resume Reality:** Does their resume accurately reflect the skills demonstrated in the project?
+
+### 2. Code Review: The "Definition of Done"
+
+* **Functional:** The agent solves the core problem (fixes the bug, answers the customer) without crashing.
+* **Clean Code:** Adheres to Python PEP8 standards; no commented-out junk code.
+* **Architectural Purity:** The code must correctly implement the specific pattern for that level (e.g., Level 3 *must* loop, not just run once).
+* **Error Handling:** The system handles LLM hallucinations or API failures gracefully.
+
+---
+
+## 🚀 Optional Advanced Tracks
+
+Once you have completed the core curriculum, you may explore these specialization modules:
+
+* **Advanced RAG Pipelines:** Implementing semantic search with vector databases (ChromaDB/Pinecone).
+* **Agent Evaluation:** Using "LLM-as-a-Judge" to score your agent's performance automatically.
+* **Fine-Tuning:** Customizing a small Gemini/Llama model for specific domain tasks.
+* **Production Deployment:** Containerizing agents with Docker and deploying to Cloud Run.
+
+---
+
+## General Resources
+
+* [Google ADK Documentation Home](https://google.github.io/adk-docs/)
+* [ADK GitHub Repository](https://www.google.com/search?q=https://github.com/google/adk)
+
