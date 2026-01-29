@@ -90,6 +90,36 @@ Peers should use the following standards when grading, regardless of which proje
 
 ---
 
+
+## General Resources
+
+### Augmented AI Developer Fundamentals
+
+* [Fundamentals of Generative AI](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/) (1 hour)
+* [Accelerate App Development using GitHub Copilot](https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/) (6 hours)
+* [Introduction to Prompt Engineering with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/?WT.mc_id=academic-113596-abartolo) (1 hour)
+* [Introduction to Copilot in Python](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-113596-abartolo) (1 hour)
+* [Integrate MCP with Copilot](https://github.com/skills/integrate-mcp-with-copilot) (GitHub Skill)
+
+
+### Google ADK Courses
+
+* [Introduction to Generative AI](https://www.skills.google/course_templates/536) (30 mins)
+* [Create Generative AI Apps on Google Cloud](https://www.skills.google/course_templates/1120) (5 hours)
+* [Create Embeddings, Vector Search, and RAG with BigQuery](https://www.skills.google/course_templates/1210) (1 hour)
+* [Build Intelligent Agents with Agent Development Kit (ADK)](https://www.skills.google/course_templates/1382) (6 hours)
+* **Documentation:** [Google ADK Docs](https://google.github.io/adk-docs/)
+
+
+### Spec-Driven Development (SpecDD)
+
+* **Video Training:** [Spec-Driven Development in the Real World](https://www.youtube.com/watch?v=3le-v1Pme44) (YouTube, 15 mins)
+* **Core Concept:** [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) (Article)
+* **Skill Builder:** [Google Technical Writing One](https://developers.google.com/tech-writing/one) (Course)
+
+
+
+---
 ## 🚀 Optional Advanced Tracks
 
 Once you have completed the core curriculum, you may explore these specialization modules:
@@ -100,9 +130,3 @@ Once you have completed the core curriculum, you may explore these specializatio
 * **Production Deployment:** Containerizing agents with Docker and deploying to Cloud Run.
 
 ---
-
-## General Resources
-
-* [Google ADK Documentation Home](https://google.github.io/adk-docs/)
-* [ADK GitHub Repository](https://www.google.com/search?q=https://github.com/google/adk)
-
