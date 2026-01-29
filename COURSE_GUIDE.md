@@ -1,8 +1,17 @@
 # AI Agent Engineering - Course Curriculum
 
-**🔗 [Prerequisite: Common Base Ground – AI Augmented Foundations](PUT_LINK_HERE)**
+**🔗 [Prerequisite: Common Base Ground – AI Augmented Foundations](https://github.com/jaynro/Full-Stack-Augmented/blob/main/README.md)**
 
-Welcome to the AI Agent Engineering training. This course is **self-paced and self-directed**. You are responsible for managing your own learning timeline and coordinating with colleagues for reviews.
+## 🎓 Program Outcomes
+**Welcome to the AI Agent Engineering training.**
+
+By the end of this self-paced program, you will not just "learn" about agents—you will become a practitioner. Your journey includes:
+* **3 Real-World Projects:** You will architect and build three distinct agentic systems (RAG, Orchestration, and Autonomous Loops).
+* **Resume Transformation:** You will rewrite your CV to reflect in-demand skills like "Designing Multi-Agent Systems" and "Spec-Driven Development."
+* **12 Mock Interviews:** You will undergo rigorous technical vetting (4 per project) to master your storytelling and technical defense.
+
+*This course is self-directed. You are responsible for managing your own learning timeline and coordinating with colleagues for your reviews.*
+
 
 ---
 
@@ -15,8 +24,8 @@ Welcome to the AI Agent Engineering training. This course is **self-paced and se
 * **Required Reading:** [ADK Agents Overview](https://google.github.io/adk-docs/agents/)
 * **Key Class:** `LlmAgent`
 * **✅ Assessments:**
-    * [Mock Interview Assessment](INSERT_LINK_HERE)
-    * [Code Review Definition of Done](INSERT_LINK_HERE)
+    * [Mock Interview Assessment](https://github.com/jaynro/agentic-ai-level-1-foundations/blob/main/reviews/capstone-1-mock-interviews.md)
+    * [Code Review Definition of Done](https://github.com/jaynro/agentic-ai-level-1-foundations/blob/main/reviews/capstone-1-rubric.md)
 
 ### Level 2: Multi-Agent Systems
 **Project:** [Project 2 – The Customer Resolution Squad](./project2/)
